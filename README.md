@@ -1,6 +1,6 @@
 # hellow
-Just beginning
-I really dont know what to do, but following the userguide
+
+VS Code + Github管理代码测试
 
 主要进行了下面几种测试
 
